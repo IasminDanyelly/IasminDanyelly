@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Aprendendo JS
+- 🌱 Aprendendo JS & React Js
 - 😄 Pronuns: ela/dela
 
 
