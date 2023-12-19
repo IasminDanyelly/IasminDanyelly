@@ -3,8 +3,8 @@
 
 
 
-- 🌱 Aprendendo JS & React Js
-- 😄 Pronuns: ela/dela
+- 🌱 JS & React Js
+
 
 
  <div align="center">
