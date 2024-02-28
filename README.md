@@ -1,10 +1,4 @@
-## Olá! Eu sou a Iasmin Danyelly 👋
-
-
-
-
-- 🌱 JS & React Js
-
+## Olá! Me chamo Iasmin Danyelly 👋
 
 
  <div align="center">
