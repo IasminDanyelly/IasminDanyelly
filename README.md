@@ -23,7 +23,7 @@
 
    <a href="https://www.instagram.com/iasmindanyelly/" target="_blank">
    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" 
+  	<a href="https://www.linkedin.com/in/iasmim-danyelly-785805236/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0073B1?style=for-the-badge&logo=linkedin&logoColor=white" 
    target="_blank"></a>
                         
 </div>
